@@ -5,8 +5,17 @@ EditorUserSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 4
   m_ConfigSettings:
+    GraphicsSettingsInspector_UserSettings:
+      value: 18134705175a055722080a3115371d4a0d55006876786860616b0471b8b07a68ffab74f9ee2a3a30300cea1a11320d0beb1a0c25f7060f494b4cdf1b18f3045e38cb5ad8
+      flags: 0
     RecentlyUsedSceneGuid-0:
+      value: 5105550257010d0e590a0d2442705d444f4e4e727e2b77617f704437bbb0653c
+      flags: 0
+    RecentlyUsedSceneGuid-1:
       value: 515250075c0c595e5f5a5e71122159444e4e4a2f7a7d7f602f284d66b4b76661
+      flags: 0
+    RecentlyUsedSceneGuid-2:
+      value: 5455075f04515f595b5f092441730c44424e412b287923312c7d4b32bab66d3d
       flags: 0
     RecentlyUsedScenePath-0:
       value: 22424703114646680e0b0227036c6c111b07142f1f2b233e2867083debf42d

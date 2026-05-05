@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d56554f0f28e3174b9b0f26242568028, type: 3}
+  m_Name: SO_Shirt_01
+  m_EditorClassIdentifier: Assembly-CSharp::SO_BodyPart
+  bodyPartName: Shirt 01
+  bodyPartAnimationID: 1
+  allBodyPartAnimations:
+  - {fileID: 7400000, guid: 549bb6b49facf5240b09a59bd4660af3, type: 2}
+  - {fileID: 7400000, guid: 444b683fee6b8d345b920435fd9dd4d2, type: 2}
+  - {fileID: 7400000, guid: 84460354ed1e1cf4fbe4e356ed4f163c, type: 2}
+  - {fileID: 7400000, guid: c63c62e79c3626e4795099d071747702, type: 2}
+  - {fileID: 7400000, guid: ef71796727704aa4cacd77cd396f68e4, type: 2}
+  - {fileID: 7400000, guid: e9c7dc60b29fe9d41a313fc8e044450d, type: 2}
+  - {fileID: 7400000, guid: 4eb2626eb22f3d04fb64e278d1d7053c, type: 2}
+  - {fileID: 7400000, guid: f0ceb4e77769b8d4d92dd24511b1ff25, type: 2}

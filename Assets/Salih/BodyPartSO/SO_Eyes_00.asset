@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d56554f0f28e3174b9b0f26242568028, type: 3}
+  m_Name: SO_Eyes_00
+  m_EditorClassIdentifier: Assembly-CSharp::SO_BodyPart
+  bodyPartName: Eyes 00
+  bodyPartAnimationID: 0
+  allBodyPartAnimations:
+  - {fileID: 7400000, guid: 1ce42ac594a1da641bfa4daecf1e9af9, type: 2}
+  - {fileID: 7400000, guid: 2ddc4049add6ded4096bc89974503813, type: 2}
+  - {fileID: 7400000, guid: 4085aeeb294177743b97d805343920a7, type: 2}
+  - {fileID: 7400000, guid: 81d049299b632bd4d938138341ca3af6, type: 2}
+  - {fileID: 7400000, guid: c93111368d6a7e34f96428d9470a5418, type: 2}
+  - {fileID: 7400000, guid: a0fc49551cfe20b4b94685c7a10b839b, type: 2}
+  - {fileID: 7400000, guid: 9349630f9403d354c8bc5144229ef4e5, type: 2}
+  - {fileID: 7400000, guid: ad103b0bbf755d34fa95fc4f09b11a65, type: 2}

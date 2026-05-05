@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d56554f0f28e3174b9b0f26242568028, type: 3}
+  m_Name: SO_Skin_00
+  m_EditorClassIdentifier: Assembly-CSharp::SO_BodyPart
+  bodyPartName: Skin 00
+  bodyPartAnimationID: 0
+  allBodyPartAnimations:
+  - {fileID: 7400000, guid: 6b74e25996e67b04689cb1df0f98adbd, type: 2}
+  - {fileID: 7400000, guid: 2a08bd32bd898364e912692f29df4556, type: 2}
+  - {fileID: 7400000, guid: e4b5945c008460a44a4938bc7abf6696, type: 2}
+  - {fileID: 7400000, guid: ca536c483cf96634980fa6790702248b, type: 2}
+  - {fileID: 7400000, guid: 58152b554e57b2940acbd1d3adf046f3, type: 2}
+  - {fileID: 7400000, guid: 78ffc971c6ae8984ea1f3a247f9ca6c7, type: 2}
+  - {fileID: 7400000, guid: 0346c14be41d4714caf7adaf5c9d442d, type: 2}
+  - {fileID: 7400000, guid: e0a5b67c33c4eae41b86884d45c22ea3, type: 2}

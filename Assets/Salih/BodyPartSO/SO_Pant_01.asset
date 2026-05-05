@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d56554f0f28e3174b9b0f26242568028, type: 3}
+  m_Name: SO_Pant_01
+  m_EditorClassIdentifier: Assembly-CSharp::SO_BodyPart
+  bodyPartName: Pant 01
+  bodyPartAnimationID: 1
+  allBodyPartAnimations:
+  - {fileID: 7400000, guid: d04845bb118f3954fb87b6f4a6f8a864, type: 2}
+  - {fileID: 7400000, guid: eb4cd06e12e843f47beaf2d2611b661f, type: 2}
+  - {fileID: 7400000, guid: 7105a5ed3ba185247b3dbb092c2db2f1, type: 2}
+  - {fileID: 7400000, guid: 4fd22d243d5916e41b5d2261910fa666, type: 2}
+  - {fileID: 7400000, guid: a218fb73bf98b8648ab4c36eb0871d63, type: 2}
+  - {fileID: 7400000, guid: a8860ce92c454c34eb2c7120aa23cef5, type: 2}
+  - {fileID: 7400000, guid: d91c87cd6e11950479ee880078ae94a2, type: 2}
+  - {fileID: 7400000, guid: ebdc72a0d7eb62a45b2bd56032ff9313, type: 2}
