@@ -1,81 +1,81 @@
 fileFormatVersion: 2
-guid: cab9c4fc5087f1f40a9e62b90e23c1cd
+guid: 384fa3c507b45004c8619408d97f70b2
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1955445311070395896
-    second: 3frame_character_body_0
+      213: -3693492315944262434
+    second: 3frame_character_legs_0
   - first:
-      213: 2095724405837921888
-    second: 3frame_character_body_1
+      213: 2603238811775612124
+    second: 3frame_character_legs_1
   - first:
-      213: -6091693940602190714
-    second: 3frame_character_body_2
+      213: -8348034583186469144
+    second: 3frame_character_legs_2
   - first:
-      213: 5812203028350501791
-    second: 3frame_character_body_3
+      213: -1110233359990490018
+    second: 3frame_character_legs_3
   - first:
-      213: 8601856384014542012
-    second: 3frame_character_body_4
+      213: -8957449254706801961
+    second: 3frame_character_legs_4
   - first:
-      213: 6079658446594480526
-    second: 3frame_character_body_5
+      213: -250571431602111345
+    second: 3frame_character_legs_5
   - first:
-      213: 7784273966139345125
-    second: 3frame_character_body_6
+      213: 1160833348022220117
+    second: 3frame_character_legs_6
   - first:
-      213: -1258354984272604373
-    second: 3frame_character_body_7
+      213: -2634589293743627418
+    second: 3frame_character_legs_7
   - first:
-      213: 6288189982264205437
-    second: 3frame_character_body_8
+      213: 237662431839596465
+    second: 3frame_character_legs_8
   - first:
-      213: -7865894142185083108
-    second: 3frame_character_body_9
+      213: -8247776926239614359
+    second: 3frame_character_legs_9
   - first:
-      213: 4336965165473942647
-    second: 3frame_character_body_10
+      213: 6600429180033243848
+    second: 3frame_character_legs_10
   - first:
-      213: -7219570631426118510
-    second: 3frame_character_body_11
+      213: 1884605303517061118
+    second: 3frame_character_legs_11
   - first:
-      213: -8992585661968821989
-    second: 3frame_character_body_12
+      213: -6488546093945783794
+    second: 3frame_character_legs_12
   - first:
-      213: 6407941872125734460
-    second: 3frame_character_body_13
+      213: 8534946692553997975
+    second: 3frame_character_legs_13
   - first:
-      213: 3607486817665366878
-    second: 3frame_character_body_14
+      213: -3487380404616832731
+    second: 3frame_character_legs_14
   - first:
-      213: 2491837436991601378
-    second: 3frame_character_body_15
+      213: 7605663958070327043
+    second: 3frame_character_legs_15
   - first:
-      213: -7908075892314864185
-    second: 3frame_character_body_16
+      213: 7171149428232952138
+    second: 3frame_character_legs_16
   - first:
-      213: 4745579763691626134
-    second: 3frame_character_body_17
+      213: -3684141029738823599
+    second: 3frame_character_legs_17
   - first:
-      213: -963391377576429967
-    second: 3frame_character_body_18
+      213: -4289090072712521879
+    second: 3frame_character_legs_18
   - first:
-      213: 919866490036693179
-    second: 3frame_character_body_19
+      213: -4803474397790469501
+    second: 3frame_character_legs_19
   - first:
-      213: -6107644025132194875
-    second: 3frame_character_body_20
+      213: 3315822272738980615
+    second: 3frame_character_legs_20
   - first:
-      213: -5154250809342407583
-    second: 3frame_character_body_21
+      213: 6024872568074909153
+    second: 3frame_character_legs_21
   - first:
-      213: -6844637228376950368
-    second: 3frame_character_body_22
+      213: 1310707532852331629
+    second: 3frame_character_legs_22
   - first:
-      213: -676837871482564937
-    second: 3frame_character_body_23
+      213: -1344558128837627241
+    second: 3frame_character_legs_23
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 13
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -92,10 +92,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -134,8 +136,10 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
   platformSettings:
-  - serializedVersion: 3
+  - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -145,9 +149,10 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
+  - serializedVersion: 4
     buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -157,13 +162,14 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: 3frame_character_body_0
+      name: 3frame_character_legs_0
       rect:
         serializedVersion: 2
         x: 0
@@ -173,18 +179,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8fddd086623232b10800000000000000
-      internalID: 1955445311070395896
+      spriteID: ed4e18fbe441ebcc0800000000000000
+      internalID: -3693492315944262434
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3frame_character_body_1
+      name: 3frame_character_legs_1
       rect:
         serializedVersion: 2
         x: 16
@@ -194,18 +201,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 06ef5155e32851d10800000000000000
-      internalID: 2095724405837921888
+      spriteID: cd4356128ef802420800000000000000
+      internalID: 2603238811775612124
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3frame_character_body_2
+      name: 3frame_character_legs_2
       rect:
         serializedVersion: 2
         x: 32
@@ -215,18 +223,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 684c10ed2a4f57ba0800000000000000
-      internalID: -6091693940602190714
+      spriteID: 8ee8e70c6c2d52c80800000000000000
+      internalID: -8348034583186469144
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3frame_character_body_3
+      name: 3frame_character_legs_3
       rect:
         serializedVersion: 2
         x: 48
@@ -236,18 +245,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f9308432cd719a050800000000000000
-      internalID: 5812203028350501791
+      spriteID: e5c7aff24a8a790f0800000000000000
+      internalID: -1110233359990490018
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3frame_character_body_4
+      name: 3frame_character_legs_4
       rect:
         serializedVersion: 2
         x: 64
@@ -257,18 +267,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cb4ec128eceef5770800000000000000
-      internalID: 8601856384014542012
+      spriteID: 7d21d978c5fb0b380800000000000000
+      internalID: -8957449254706801961
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3frame_character_body_5
+      name: 3frame_character_legs_5
       rect:
         serializedVersion: 2
         x: 80
@@ -278,18 +289,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e8997f055294f5450800000000000000
-      internalID: 6079658446594480526
+      spriteID: f8cbe7c4c9ac58cf0800000000000000
+      internalID: -250571431602111345
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3frame_character_body_6
+      name: 3frame_character_legs_6
       rect:
         serializedVersion: 2
         x: 96
@@ -299,18 +311,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5e88e0aedeb470c60800000000000000
-      internalID: 7784273966139345125
+      spriteID: 555ba4897cb1c1010800000000000000
+      internalID: 1160833348022220117
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3frame_character_body_7
+      name: 3frame_character_legs_7
       rect:
         serializedVersion: 2
         x: 112
@@ -320,18 +333,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b23d6111fcc698ee0800000000000000
-      internalID: -1258354984272604373
+      spriteID: 6632d59fefe007bd0800000000000000
+      internalID: -2634589293743627418
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3frame_character_body_8
+      name: 3frame_character_legs_8
       rect:
         serializedVersion: 2
         x: 128
@@ -341,18 +355,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d70270df873244750800000000000000
-      internalID: 6288189982264205437
+      spriteID: 1bf214af8b85c4300800000000000000
+      internalID: 237662431839596465
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3frame_character_body_9
+      name: 3frame_character_legs_9
       rect:
         serializedVersion: 2
         x: 144
@@ -362,18 +377,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c1f6b36f3fab6d290800000000000000
-      internalID: -7865894142185083108
+      spriteID: 96a13dc85920a8d80800000000000000
+      internalID: -8247776926239614359
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3frame_character_body_10
+      name: 3frame_character_legs_10
       rect:
         serializedVersion: 2
         x: 160
@@ -383,18 +399,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 77c415bf6deff2c30800000000000000
-      internalID: 4336965165473942647
+      spriteID: 8ca11016e5f699b50800000000000000
+      internalID: 6600429180033243848
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3frame_character_body_11
+      name: 3frame_character_legs_11
       rect:
         serializedVersion: 2
         x: 176
@@ -404,18 +421,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 29ce00bf2ceeecb90800000000000000
-      internalID: -7219570631426118510
+      spriteID: eff93f9d986772a10800000000000000
+      internalID: 1884605303517061118
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3frame_character_body_12
+      name: 3frame_character_legs_12
       rect:
         serializedVersion: 2
         x: 0
@@ -425,18 +443,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b11d3163cfae33380800000000000000
-      internalID: -8992585661968821989
+      spriteID: e0afc9194bd04f5a0800000000000000
+      internalID: -6488546093945783794
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3frame_character_body_13
+      name: 3frame_character_legs_13
       rect:
         serializedVersion: 2
         x: 16
@@ -446,18 +465,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c3ee7659e259de850800000000000000
-      internalID: 6407941872125734460
+      spriteID: 79e739afbc8327670800000000000000
+      internalID: 8534946692553997975
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3frame_character_body_14
+      name: 3frame_character_legs_14
       rect:
         serializedVersion: 2
         x: 32
@@ -467,18 +487,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e5b39dab52e501230800000000000000
-      internalID: 3607486817665366878
+      spriteID: 529d72abff55a9fc0800000000000000
+      internalID: -3487380404616832731
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3frame_character_body_15
+      name: 3frame_character_legs_15
       rect:
         serializedVersion: 2
         x: 48
@@ -488,18 +509,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2ea77e552f8c49220800000000000000
-      internalID: 2491837436991601378
+      spriteID: 307f5c5c21fbc8960800000000000000
+      internalID: 7605663958070327043
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3frame_character_body_16
+      name: 3frame_character_legs_16
       rect:
         serializedVersion: 2
         x: 64
@@ -509,18 +531,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7c50ebdefded04290800000000000000
-      internalID: -7908075892314864185
+      spriteID: a49121d196a058360800000000000000
+      internalID: 7171149428232952138
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3frame_character_body_17
+      name: 3frame_character_legs_17
       rect:
         serializedVersion: 2
         x: 80
@@ -530,18 +553,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 69e1f14e6afabd140800000000000000
-      internalID: 4745579763691626134
+      spriteID: 150c9fbb04d4fdcc0800000000000000
+      internalID: -3684141029738823599
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3frame_character_body_18
+      name: 3frame_character_legs_18
       rect:
         serializedVersion: 2
         x: 96
@@ -551,18 +575,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 176f1e775a851a2f0800000000000000
-      internalID: -963391377576429967
+      spriteID: 967d05ead471a74c0800000000000000
+      internalID: -4289090072712521879
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3frame_character_body_19
+      name: 3frame_character_legs_19
       rect:
         serializedVersion: 2
         x: 112
@@ -572,18 +597,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bb82c63f2b504cc00800000000000000
-      internalID: 919866490036693179
+      spriteID: 38204003c71a65db0800000000000000
+      internalID: -4803474397790469501
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3frame_character_body_20
+      name: 3frame_character_legs_20
       rect:
         serializedVersion: 2
         x: 128
@@ -593,18 +619,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5c3657b6e1a4d3ba0800000000000000
-      internalID: -6107644025132194875
+      spriteID: 7037fe00aca240e20800000000000000
+      internalID: 3315822272738980615
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3frame_character_body_21
+      name: 3frame_character_legs_21
       rect:
         serializedVersion: 2
         x: 144
@@ -614,18 +641,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 16c40e1823c6878b0800000000000000
-      internalID: -5154250809342407583
+      spriteID: 1e5b915fda5ac9350800000000000000
+      internalID: 6024872568074909153
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3frame_character_body_22
+      name: 3frame_character_legs_22
       rect:
         serializedVersion: 2
         x: 160
@@ -635,18 +663,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0a97d2a84b6f201a0800000000000000
-      internalID: -6844637228376950368
+      spriteID: d6487148e81903210800000000000000
+      internalID: 1310707532852331629
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3frame_character_body_23
+      name: 3frame_character_legs_23
       rect:
         serializedVersion: 2
         x: 176
@@ -656,17 +685,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7be00cbba836b96f0800000000000000
-      internalID: -676837871482564937
+      spriteID: 792f4ce618b275de0800000000000000
+      internalID: -1344558128837627241
       vertices: []
       indices: 
       edges: []
       weights: []
     outline: []
+    customData: 
     physicsShape: []
     bones: []
     spriteID: 5e97eb03825dee720800000000000000
@@ -676,9 +707,35 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-  spritePackingTag: 
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      3frame_character_legs_0: -3693492315944262434
+      3frame_character_legs_1: 2603238811775612124
+      3frame_character_legs_10: 6600429180033243848
+      3frame_character_legs_11: 1884605303517061118
+      3frame_character_legs_12: -6488546093945783794
+      3frame_character_legs_13: 8534946692553997975
+      3frame_character_legs_14: -3487380404616832731
+      3frame_character_legs_15: 7605663958070327043
+      3frame_character_legs_16: 7171149428232952138
+      3frame_character_legs_17: -3684141029738823599
+      3frame_character_legs_18: -4289090072712521879
+      3frame_character_legs_19: -4803474397790469501
+      3frame_character_legs_2: -8348034583186469144
+      3frame_character_legs_20: 3315822272738980615
+      3frame_character_legs_21: 6024872568074909153
+      3frame_character_legs_22: 1310707532852331629
+      3frame_character_legs_23: -1344558128837627241
+      3frame_character_legs_3: -1110233359990490018
+      3frame_character_legs_4: -8957449254706801961
+      3frame_character_legs_5: -250571431602111345
+      3frame_character_legs_6: 1160833348022220117
+      3frame_character_legs_7: -2634589293743627418
+      3frame_character_legs_8: 237662431839596465
+      3frame_character_legs_9: -8247776926239614359
+  mipmapLimitGroupName: 
   pSDRemoveMatte: 0
-  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

@@ -1,81 +1,81 @@
 fileFormatVersion: 2
-guid: c4852a23d69558c4cbe3c37ef5c21782
+guid: e8b013d2c050e9d4f82a136b5d5cd35e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5253316977630655212
-    second: 3frame_character_torso_0
+      213: 6745738826803744241
+    second: 3frame_character_hair_0
   - first:
-      213: -302238117444555354
-    second: 3frame_character_torso_1
+      213: -5752171976779260013
+    second: 3frame_character_hair_1
   - first:
-      213: 8127651544978494305
-    second: 3frame_character_torso_2
+      213: 1981607284842267656
+    second: 3frame_character_hair_2
   - first:
-      213: 6738567423350854838
-    second: 3frame_character_torso_3
+      213: -8505227550942070405
+    second: 3frame_character_hair_3
   - first:
-      213: 3728623526018766680
-    second: 3frame_character_torso_4
+      213: -7153288536202600091
+    second: 3frame_character_hair_4
   - first:
-      213: 8605772042573305103
-    second: 3frame_character_torso_5
+      213: 9184995837901041998
+    second: 3frame_character_hair_5
   - first:
-      213: -8504521117873672825
-    second: 3frame_character_torso_6
+      213: 5551087301405259986
+    second: 3frame_character_hair_6
   - first:
-      213: -3663945391355047956
-    second: 3frame_character_torso_7
+      213: 7649688996554380123
+    second: 3frame_character_hair_7
   - first:
-      213: -275374405981405242
-    second: 3frame_character_torso_8
+      213: -6078006572569192623
+    second: 3frame_character_hair_8
   - first:
-      213: 1773436100734927446
-    second: 3frame_character_torso_9
+      213: 2127874648671056423
+    second: 3frame_character_hair_9
   - first:
-      213: 824711151453431541
-    second: 3frame_character_torso_10
+      213: 1790504474147475872
+    second: 3frame_character_hair_10
   - first:
-      213: -8283079844504661622
-    second: 3frame_character_torso_11
+      213: 4015490458109735407
+    second: 3frame_character_hair_11
   - first:
-      213: 5779198043044474482
-    second: 3frame_character_torso_12
+      213: -6252832504649324441
+    second: 3frame_character_hair_12
   - first:
-      213: 2588829072479384257
-    second: 3frame_character_torso_13
+      213: -5270017914113659702
+    second: 3frame_character_hair_13
   - first:
-      213: -4332948258993807871
-    second: 3frame_character_torso_14
+      213: 2985305160292866117
+    second: 3frame_character_hair_14
   - first:
-      213: -6991643011220450808
-    second: 3frame_character_torso_15
+      213: -1767851706998765865
+    second: 3frame_character_hair_15
   - first:
-      213: -3845134796476689761
-    second: 3frame_character_torso_16
+      213: 8840324455553326016
+    second: 3frame_character_hair_16
   - first:
-      213: -5546248105054073105
-    second: 3frame_character_torso_17
+      213: 3948724545148156761
+    second: 3frame_character_hair_17
   - first:
-      213: -9134019724983306224
-    second: 3frame_character_torso_18
+      213: -1283590395065471759
+    second: 3frame_character_hair_18
   - first:
-      213: 6102246637840853795
-    second: 3frame_character_torso_19
+      213: 963614960338753807
+    second: 3frame_character_hair_19
   - first:
-      213: 7496748887807634623
-    second: 3frame_character_torso_20
+      213: -7577882070624793246
+    second: 3frame_character_hair_20
   - first:
-      213: 5303549222057235318
-    second: 3frame_character_torso_21
+      213: -3445253314701938520
+    second: 3frame_character_hair_21
   - first:
-      213: 4025709621513169919
-    second: 3frame_character_torso_22
+      213: -3819785972392411544
+    second: 3frame_character_hair_22
   - first:
-      213: -5381860027003716453
-    second: 3frame_character_torso_23
+      213: 7837911205735733887
+    second: 3frame_character_hair_23
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 13
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -92,10 +92,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -134,8 +136,10 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
   platformSettings:
-  - serializedVersion: 3
+  - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -145,9 +149,10 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
+  - serializedVersion: 4
     buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -157,13 +162,14 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: 3frame_character_torso_0
+      name: 3frame_character_hair_0
       rect:
         serializedVersion: 2
         x: 0
@@ -173,18 +179,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 41dcbc7ca087817b0800000000000000
-      internalID: -5253316977630655212
+      spriteID: 1fd8237f8bdad9d50800000000000000
+      internalID: 6745738826803744241
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3frame_character_torso_1
+      name: 3frame_character_hair_1
       rect:
         serializedVersion: 2
         x: 16
@@ -194,18 +201,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6ad6224980c3ecbf0800000000000000
-      internalID: -302238117444555354
+      spriteID: 39f9d1d301e2c20b0800000000000000
+      internalID: -5752171976779260013
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3frame_character_torso_2
+      name: 3frame_character_hair_2
       rect:
         serializedVersion: 2
         x: 32
@@ -215,18 +223,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 163199c94083bc070800000000000000
-      internalID: 8127651544978494305
+      spriteID: 80489599355108b10800000000000000
+      internalID: 1981607284842267656
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3frame_character_torso_3
+      name: 3frame_character_hair_3
       rect:
         serializedVersion: 2
         x: 48
@@ -236,18 +245,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6b4d8db7e53348d50800000000000000
-      internalID: 6738567423350854838
+      spriteID: b797b34ea9c57f980800000000000000
+      internalID: -8505227550942070405
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3frame_character_torso_4
+      name: 3frame_character_hair_4
       rect:
         serializedVersion: 2
         x: 64
@@ -257,18 +267,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8575381875bbeb330800000000000000
-      internalID: 3728623526018766680
+      spriteID: 56125cfd9f96abc90800000000000000
+      internalID: -7153288536202600091
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3frame_character_torso_5
+      name: 3frame_character_hair_5
       rect:
         serializedVersion: 2
         x: 80
@@ -278,18 +289,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f05d19fc318dd6770800000000000000
-      internalID: 8605772042573305103
+      spriteID: e417885ec09a77f70800000000000000
+      internalID: 9184995837901041998
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3frame_character_torso_6
+      name: 3frame_character_hair_6
       rect:
         serializedVersion: 2
         x: 96
@@ -299,18 +311,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 78de4582a1fd9f980800000000000000
-      internalID: -8504521117873672825
+      spriteID: 2d8317d5d7c690d40800000000000000
+      internalID: 5551087301405259986
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3frame_character_torso_7
+      name: 3frame_character_hair_7
       rect:
         serializedVersion: 2
         x: 112
@@ -320,18 +333,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cef4ad7341d072dc0800000000000000
-      internalID: -3663945391355047956
+      spriteID: b5396d1dc97292a60800000000000000
+      internalID: 7649688996554380123
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3frame_character_torso_8
+      name: 3frame_character_hair_8
       rect:
         serializedVersion: 2
         x: 128
@@ -341,18 +355,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6cf7e3fcf6cad2cf0800000000000000
-      internalID: -275374405981405242
+      spriteID: 1571683993596aba0800000000000000
+      internalID: -6078006572569192623
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3frame_character_torso_9
+      name: 3frame_character_hair_9
       rect:
         serializedVersion: 2
         x: 144
@@ -362,18 +377,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 652c820dcb28c9810800000000000000
-      internalID: 1773436100734927446
+      spriteID: 722f89018bab78d10800000000000000
+      internalID: 2127874648671056423
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3frame_character_torso_10
+      name: 3frame_character_hair_10
       rect:
         serializedVersion: 2
         x: 160
@@ -383,18 +399,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5f66fa83c66f17b00800000000000000
-      internalID: 824711151453431541
+      spriteID: 0a1de4e255629d810800000000000000
+      internalID: 1790504474147475872
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3frame_character_torso_11
+      name: 3frame_character_hair_11
       rect:
         serializedVersion: 2
         x: 176
@@ -404,18 +421,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a811a1e54c69c0d80800000000000000
-      internalID: -8283079844504661622
+      spriteID: fe1f992fb43e9b730800000000000000
+      internalID: 4015490458109735407
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3frame_character_torso_12
+      name: 3frame_character_hair_12
       rect:
         serializedVersion: 2
         x: 0
@@ -425,18 +443,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 27e6c4a2006d33050800000000000000
-      internalID: 5779198043044474482
+      spriteID: 7686c5847f97939a0800000000000000
+      internalID: -6252832504649324441
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3frame_character_torso_13
+      name: 3frame_character_hair_13
       rect:
         serializedVersion: 2
         x: 16
@@ -446,18 +465,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1c27651435e5de320800000000000000
-      internalID: 2588829072479384257
+      spriteID: acc6f4df0a22dd6b0800000000000000
+      internalID: -5270017914113659702
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3frame_character_torso_14
+      name: 3frame_character_hair_14
       rect:
         serializedVersion: 2
         x: 32
@@ -467,18 +487,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 10ed680f3864ed3c0800000000000000
-      internalID: -4332948258993807871
+      spriteID: 5489569f93fed6920800000000000000
+      internalID: 2985305160292866117
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3frame_character_torso_15
+      name: 3frame_character_hair_15
       rect:
         serializedVersion: 2
         x: 48
@@ -488,18 +509,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 802dcdf79b1b8fe90800000000000000
-      internalID: -6991643011220450808
+      spriteID: 7d645cc2d345777e0800000000000000
+      internalID: -1767851706998765865
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3frame_character_torso_16
+      name: 3frame_character_hair_16
       rect:
         serializedVersion: 2
         x: 64
@@ -509,18 +531,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f925386664653aac0800000000000000
-      internalID: -3845134796476689761
+      spriteID: 0cb547811442faa70800000000000000
+      internalID: 8840324455553326016
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3frame_character_torso_17
+      name: 3frame_character_hair_17
       rect:
         serializedVersion: 2
         x: 80
@@ -530,18 +553,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fee8116dbb4c703b0800000000000000
-      internalID: -5546248105054073105
+      spriteID: 95bfb657d00bcc630800000000000000
+      internalID: 3948724545148156761
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3frame_character_torso_18
+      name: 3frame_character_hair_18
       rect:
         serializedVersion: 2
         x: 96
@@ -551,18 +575,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 01875f844717d3180800000000000000
-      internalID: -9134019724983306224
+      spriteID: 1fce4012655cf2ee0800000000000000
+      internalID: -1283590395065471759
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3frame_character_torso_19
+      name: 3frame_character_hair_19
       rect:
         serializedVersion: 2
         x: 112
@@ -572,18 +597,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 32b635c6cf88fa450800000000000000
-      internalID: 6102246637840853795
+      spriteID: f095e3373b27f5d00800000000000000
+      internalID: 963614960338753807
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3frame_character_torso_20
+      name: 3frame_character_hair_20
       rect:
         serializedVersion: 2
         x: 128
@@ -593,18 +619,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fbc241cd46dc90860800000000000000
-      internalID: 7496748887807634623
+      spriteID: 26d8b96f764f5d690800000000000000
+      internalID: -7577882070624793246
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3frame_character_torso_21
+      name: 3frame_character_hair_21
       rect:
         serializedVersion: 2
         x: 144
@@ -614,18 +641,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 67355850bedf99940800000000000000
-      internalID: 5303549222057235318
+      spriteID: 8a034ff2d500030d0800000000000000
+      internalID: -3445253314701938520
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3frame_character_torso_22
+      name: 3frame_character_hair_22
       rect:
         serializedVersion: 2
         x: 160
@@ -635,18 +663,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ffb2a2752913ed730800000000000000
-      internalID: 4025709621513169919
+      spriteID: 86eb78d65e46dfac0800000000000000
+      internalID: -3819785972392411544
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 3frame_character_torso_23
+      name: 3frame_character_hair_23
       rect:
         serializedVersion: 2
         x: 176
@@ -656,17 +685,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b9cb19bd1dacf45b0800000000000000
-      internalID: -5381860027003716453
+      spriteID: f7a9eeee6bad5cc60800000000000000
+      internalID: 7837911205735733887
       vertices: []
       indices: 
       edges: []
       weights: []
     outline: []
+    customData: 
     physicsShape: []
     bones: []
     spriteID: 5e97eb03825dee720800000000000000
@@ -676,9 +707,35 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-  spritePackingTag: 
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      3frame_character_hair_0: 6745738826803744241
+      3frame_character_hair_1: -5752171976779260013
+      3frame_character_hair_10: 1790504474147475872
+      3frame_character_hair_11: 4015490458109735407
+      3frame_character_hair_12: -6252832504649324441
+      3frame_character_hair_13: -5270017914113659702
+      3frame_character_hair_14: 2985305160292866117
+      3frame_character_hair_15: -1767851706998765865
+      3frame_character_hair_16: 8840324455553326016
+      3frame_character_hair_17: 3948724545148156761
+      3frame_character_hair_18: -1283590395065471759
+      3frame_character_hair_19: 963614960338753807
+      3frame_character_hair_2: 1981607284842267656
+      3frame_character_hair_20: -7577882070624793246
+      3frame_character_hair_21: -3445253314701938520
+      3frame_character_hair_22: -3819785972392411544
+      3frame_character_hair_23: 7837911205735733887
+      3frame_character_hair_3: -8505227550942070405
+      3frame_character_hair_4: -7153288536202600091
+      3frame_character_hair_5: 9184995837901041998
+      3frame_character_hair_6: 5551087301405259986
+      3frame_character_hair_7: 7649688996554380123
+      3frame_character_hair_8: -6078006572569192623
+      3frame_character_hair_9: 2127874648671056423
+  mipmapLimitGroupName: 
   pSDRemoveMatte: 0
-  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 
