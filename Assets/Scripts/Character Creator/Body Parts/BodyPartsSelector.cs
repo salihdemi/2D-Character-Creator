@@ -92,5 +92,5 @@ public class BodyPartSelection
     public string bodyPartName;
     public SO_BodyPart[] bodyPartOptions;
     public Text bodyPartNameTextComponent;
-    /*[HideInInspector]*/ public int bodyPartCurrentIndex;
+    [HideInInspector] public int bodyPartCurrentIndex;
 }
